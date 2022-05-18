@@ -1,2 +1,2 @@
 # Note
-This will only detect & dump externally allocated pages, doesnt matter if the page is allocated from kernel or usermode
+This will only detect & dump externally allocated pages regardless of whether the page is allocated from kernel or usermode
